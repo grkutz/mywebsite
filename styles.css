@@ -1,0 +1,35 @@
+body {
+    background-color: #f0f2f5;
+    color: #333;
+}
+.navbar, .footer {
+    background-color: #212529;
+}
+.nav-link {
+    color: #ffffff !important;
+}
+.section-title {
+    color: #007bff;
+}
+.footer {
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+.navbar-brand img {
+    border-radius: 50%;
+    margin-right: 10px;
+    height: 40px;
+    width: 40px;
+}
+.container .lead {
+    color: #555;
+}
+.social-icons a {
+    color: #ffffff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+.social-icons a:hover {
+    color: #007bff;
+}
