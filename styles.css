@@ -16,7 +16,7 @@ body {
     padding: 20px 0;
     text-align: center;
 }
-.navbar-brand img {
+.navbar-brand img.avatar {
     border-radius: 50%;
     margin-right: 10px;
     height: 40px;
